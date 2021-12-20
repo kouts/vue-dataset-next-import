@@ -1,7 +1,8 @@
-# vue3-vite-starter-template
-A single page app [Vite](https://vitejs.dev) starter template, created to easily bootstrap Vue.js 3 apps.
+# vue-dataset-next-import
+A single page app based on [Vite](https://vitejs.dev) that serves as a test page for [vue-dataset@next](https://github.com/kouts/vue-dataset/tree/next).
 
 **Features**
+- Vue dataset
 - Vuex 4 for state management
 - Vue Router 4 for client-side routing
 - Bootstrap 4.6 for layout and styling
